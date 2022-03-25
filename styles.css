@@ -1,0 +1,49 @@
+.green{background-color: greenyellow;}.red{background-color: red;}
+    .black{background-color: black;}
+    .blue{background-color: violet;}.path{background-color: aqua;}
+#tab
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+    display: inline-block;
+    border-radius: 30px;
+}
+body
+{
+    background-color: black;
+    color:#7fff00;
+    filter: contrast(2px) brightness(4);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+input
+{
+    border: 1px solid black;
+    border-radius: 30px;
+    padding:4px;
+    width: 10%;
+    
+
+}
+.btn{
+    border:0px solid black; 
+    border-radius: 10%;
+    padding:5px;
+}
+.tabdiv
+{
+    text-align: center;
+}
+.tablebutton
+{
+    border:none;
+}
+.wrap{
+    text-align:center;
+    padding:10px;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+    
